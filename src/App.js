@@ -278,7 +278,16 @@ const [errormsgVnd,setErrormsgVnd]=useState(null)
 
   return (
     <main className="main-container">
-      <h2 className="headline"><span className="headline-gradient">Trainer Mapping DApp</span> 💰</h2>
+      <h2 className="headline"><span className="headline-gradient">LAP: Lead Acquisition Platform</span> </h2>
+<section>
+  <div className='headline-gradient'>
+<p>
+LAP is a platform for lead aquisition workers which enables them qualify leads.
+</p>
+</div>
+</section>
+
+
       <section className="customer-section px-10 pt-5 pb-10">
        
         <div className="mt-5">

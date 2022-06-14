@@ -278,7 +278,7 @@ const [errormsgVnd,setErrormsgVnd]=useState(null)
 
   return (
     <main className="main-container">
-      <h2 className="headline"><span className="headline-gradient">LAP: Lead Acquisition Platform</span> </h2>
+      <h2 className="headline"><span className="headline-gradient">BLAP: Blockchain Driven  Lead Acquisition Platform</span> </h2>
 <section>
   <div className='headline-gradient'>
 <p>
